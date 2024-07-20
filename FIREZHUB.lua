@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DNHA05/Infinite/main/Infinite%20Hub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vitorsla123/FIREZHUB/main/Fai%20Fao%20(1).lua"))()
